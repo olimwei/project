@@ -6,7 +6,7 @@ date: 2016-01-18 12:22:48.000000000 +09:00
 `18th Jan 2016`
 <center>
 <div>
-![温哥华住宅](/assets/images/house-1.jpg)
+![温哥华住宅](https://i.imgur.com/nE7sMeA.jpg)
 </div>
 </center>
 
@@ -18,18 +18,18 @@ date: 2016-01-18 12:22:48.000000000 +09:00
 
 <center>
 <div>
-![温哥华住宅](/assets/images/house-2.jpg)
+![温哥华住宅](https://i.imgur.com/ldmogFc.jpg)
 </div>
 </center>
 
 <center>
 <div>
-![温哥华住宅](/assets/images/house-3.jpg)
+![温哥华住宅](https://i.imgur.com/8UpbDEo.jpg)
 </div>
 </center>
 
 <center>
 <div>
-![温哥华住宅](/assets/images/house-4.jpg)
+![温哥华住宅](https://i.imgur.com/HhCxSaS.jpg)
 </div>
 </center>

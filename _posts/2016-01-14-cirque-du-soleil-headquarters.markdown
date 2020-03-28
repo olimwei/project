@@ -6,7 +6,7 @@ date: 2016-01-14 15:22:50.000000000 +09:00
 `14th Jan 2016`
 <center>
 <div>
-![太阳马戏团总部](/assets/images/cirque-du-soleil-1.jpg)
+![太阳马戏团总部](https://i.imgur.com/eq0jg0C.jpg)
 </div>
 </center>
 
@@ -18,7 +18,7 @@ date: 2016-01-14 15:22:50.000000000 +09:00
 
 <center>
 <div>
-![太阳马戏团总部](/assets/images/cirque-du-soleil-2.jpg)
+![太阳马戏团总部](https://i.imgur.com/F7hGoHH.jpg)
 </div>
 </center>
 
