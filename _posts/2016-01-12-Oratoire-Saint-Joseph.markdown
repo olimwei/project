@@ -7,7 +7,7 @@ date: 2016-01-12 16:02:30.000000000 +09:00
 `12th Jan 2016`
 <center>
 <div>
-![蒙特利尔圣约瑟夫大教堂](http://project.olim.ca/assets/images/oratoire-Saint-Joseph-1.jpeg)
+  <img src="http://project.olim.ca/assets/images/oratoire-Saint-Joseph-1.jpeg" alt="蒙特利尔圣约瑟夫大教堂">
 </div>
 </center>
 
@@ -19,6 +19,6 @@ L'Oratoire Saint-Joseph是一座罗马天主教宗座圣殿，位于加拿大魁
 
 <center>
 <div>
-![蒙特利尔圣约瑟夫大教堂](http://project.olim.ca/assets/images/oratoire-Saint-Joseph-2.jpeg)!
+<img src="http://project.olim.ca/assets/images/oratoire-Saint-Joseph-2.jpeg" alt="蒙特利尔圣约瑟夫大教堂">
 </div>
 </center>
