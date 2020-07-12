@@ -13,7 +13,7 @@ date: 2016-01-01 01:34:03.000000000 +08:00
 <h1>
 <a href="https://github.com/olimwei" class="fa fa-github"></a>
 <a href="http://weibo.com/olimw/" class="fa fa-weibo"></a>
-<a href="https://twitter.com/archwei" class="fa fa-twitter"></a>
+<a href="https://twitter.com/mkzg" class="fa fa-twitter"></a>
 <a href="http://www.olim.ca" class="fa fa-linkedin"></a>
 <a href="http://olim.ca" class="fa fa-pencil"></a>
 <a href="mailto:me@olim.ca" class="fa fa-envelope"></a>
