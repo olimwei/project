@@ -6,7 +6,7 @@ date: 2016-02-14 16:22:38.000000000 +09:00
 `13th Feb 2016`
 <center>
 <div>
-  ![Vancouver House design](http://project.olim.ca/assets/images/harbour-green-3-2.jpeg)
+  <img src="http://project.olim.ca/assets/images/harbour-green-3-2.jpeg" alt="Vancouver House design">
 </div>
 </center>
 
@@ -18,7 +18,7 @@ Three Harbour Green 是由温哥华豪宅开发商ASPEC（香港新鸿基）在C
 
 <center>
 <div>
-  ![Vancouver House design](http://project.olim.ca/assets/images/harbour-green-3-1.jpeg)
+  <img src="http://project.olim.ca/assets/images/harbour-green-3-1.jpeg" alt="Vancouver House design">
 </div>
 </center>
 
