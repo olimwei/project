@@ -6,7 +6,7 @@ date: 2016-02-14 15:22:38.000000000 +09:00
 `14th Feb 2016`
 <center>
 <div>
-![Hotel Georgia Residences](assets/images/hotel-georgia-1.jpeg)
+  ![Vancouver House design](http://project.olim.ca/assets/images/hotel-georgia-1.jpeg)
 </div>
 </center>
 
@@ -18,7 +18,7 @@ Hotel Georgia Residences 由温哥华另一豪宅开发商Delta在市中心久�
 
 <center>
 <div>
-![Hotel Georgia Residences](assets/images/hotel-georgia-2.jpeg)
+  ![Vancouver House design](http://project.olim.ca/assets/images/hotel-georgia-2.jpeg)
 </div>
 </center>
 
