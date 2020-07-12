@@ -6,7 +6,7 @@ date: 2016-01-14 15:22:50.000000000 +09:00
 `14th Jan 2016`
 <center>
 <div>
-  ![](http://project.olim.ca/assets/images/cirque-du-soleil-1.jpeg)
+  <img src="http://project.olim.ca/assets/images/cirque-du-soleil-1.jpeg" alt="Cirque du soleil太阳马戏团">
 </div>
 </center>
 
@@ -18,7 +18,7 @@ date: 2016-01-14 15:22:50.000000000 +09:00
 
 <center>
 <div>
-  ![](http://project.olim.ca/assets/images/cirque-du-soleil-2.jpeg)
+  <img src="http://project.olim.ca/assets/images/cirque-du-soleil-2.jpeg" alt="Cirque du soleil太阳马戏团">
 </div>
 </center>
 
