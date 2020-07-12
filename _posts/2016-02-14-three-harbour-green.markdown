@@ -6,7 +6,7 @@ date: 2016-02-14 16:22:38.000000000 +09:00
 `13th Feb 2016`
 <center>
 <div>
-![three harbour green](assets/images/hharbour-green-3-2.jpeg)
+  ![](assets/images/harbour-green-3-2.jpeg)
 </div>
 </center>
 
@@ -18,7 +18,7 @@ Three Harbour Green 是由温哥华豪宅开发商ASPEC（香港新鸿基）在C
 
 <center>
 <div>
-![three harbour green](assets/images/hharbour-green-3-1.jpeg)
+  ![](assets/images/harbour-green-3-1.jpeg)
 </div>
 </center>
 
