@@ -19,6 +19,6 @@ L'Oratoire Saint-Joseph是一座罗马天主教宗座圣殿，位于加拿大魁
 
 <center>
 <div>
-![](assets/images/oratoire-Saint-Joseph-2.jpeg)!
+![蒙特利尔圣约瑟夫大教堂](assets/images/oratoire-Saint-Joseph-2.jpeg)!
 </div>
 </center>
