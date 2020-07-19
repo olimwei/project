@@ -40,7 +40,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  redcarpet
+  kramdown
 
 BUNDLED WITH
    1.13.5
